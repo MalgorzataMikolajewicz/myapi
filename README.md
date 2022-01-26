@@ -6,7 +6,9 @@ As input, the endpoint should accept a POST query with JSON.
 {"key1": "value1"}
 
 as a response it returns JSON with values expressed in another dialect:
-{"key2": "value2"}
+{"key2": "value2"}.
+
+In the admin panel there is a mapping definition, i.e. rules: "value1" -> "value2".
 
 ## Technologies & libraries
 
